@@ -21,8 +21,6 @@ library(htmltools)
 library(markdown)
 library(shinythemes)
 
-theme_set(theme_classic())
-
 
 # import data ----
 population <- read_csv("World_Population.csv", skip = 4)
