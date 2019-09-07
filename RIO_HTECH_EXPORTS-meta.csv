@@ -1,0 +1,15 @@
+DATASET TITLE,High-tech exports 
+COMMENTS,Data on high-tech exports. Created by filtering the original Eurostat dataset.
+DATASET CODE,RIO_HTECH_EXPORTS
+SOURCE URL,
+EXPLANATORY TEXT,http://ec.europa.eu/eurostat/cache/metadata/en/htec_esms.htm
+NUMBER OF VALUES,1548
+SOURCE DATASET CODE,htec_trd_tot4
+DATA PROVIDER,EUROSTAT - Statistical Office of the European Union
+CHANGE IN THE STRUCTURE OF THE DATASET,4/29/2019
+THE END OF DATA VALUES,2018
+THE START OF DATA VALUES,2000
+DATA UPDATED AT DATA PROVIDER,4/29/2019
+UPDATED IN RIO,4/30/2019
+RIO DOWNLOAD LINK,https://rio.jrc.ec.europa.eu/datasets/RIO_HTECH_EXPORTS.zip
+-----------------------------------------------------,

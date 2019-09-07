@@ -1,0 +1,986 @@
+Year,Partner,Value (in Millions),Country,Population
+2007,non-EU Countries,4567,Austria,8295487
+2007,non-EU Countries,6495,Belgium,10625700
+2007,non-EU Countries,29,Cyprus,1063713
+2007,non-EU Countries,2545,Czech Republic,10298828
+2007,non-EU Countries,51479,Germany,82266372
+2007,non-EU Countries,3775,Denmark,5461438
+2007,non-EU Countries,97,Estonia,1340680
+2007,non-EU Countries,226,Greece,11048473
+2007,non-EU Countries,2713,Spain,45226803
+2007,non-EU Countries,6197,Finland,5288720
+2007,non-EU Countries,35399,France,64016225
+2007,non-EU Countries,267,Croatia,4310217
+2007,non-EU Countries,5311,Hungary,10055780
+2007,non-EU Countries,9433,Ireland,4398942
+2007,non-EU Countries,10657,Italy,58438310
+2007,non-EU Countries,239,Lithuania,3231294
+2007,non-EU Countries,455,Luxembourg,479993
+2007,non-EU Countries,133,Latvia,2200325
+2007,non-EU Countries,708,Malta,406724
+2007,non-EU Countries,17545,Netherlands,16381696
+2007,non-EU Countries,917,Poland,38120560
+2007,non-EU Countries,1869,Portugal,10542964
+2007,non-EU Countries,243,Romania,20882982
+2007,non-EU Countries,9035,Sweden,9148092
+2007,non-EU Countries,494,Slovenia,2018122
+2007,non-EU Countries,334,Slovak Republic,5374622
+2007,non-EU Countries,27888,United Kingdom,61322463
+2007,EU Member States,8700,Austria,8295487
+2007,EU Member States,14343,Belgium,10625700
+2007,EU Member States,120,Cyprus,1063713
+2007,EU Member States,10083,Czech Republic,10298828
+2007,EU Member States,73731,Germany,82266372
+2007,EU Member States,5011,Denmark,5461438
+2007,EU Member States,531,Estonia,1340680
+2007,EU Member States,589,Greece,11048473
+2007,EU Member States,5119,Spain,45226803
+2007,EU Member States,5311,Finland,5288720
+2007,EU Member States,32662,France,64016225
+2007,EU Member States,318,Croatia,4310217
+2007,EU Member States,9546,Hungary,10055780
+2007,EU Member States,13387,Ireland,4398942
+2007,EU Member States,11233,Italy,58438310
+2007,EU Member States,678,Lithuania,3231294
+2007,EU Member States,5052,Luxembourg,479993
+2007,EU Member States,147,Latvia,2200325
+2007,EU Member States,366,Malta,406724
+2007,EU Member States,55909,Netherlands,16381696
+2007,EU Member States,2191,Poland,38120560
+2007,EU Member States,746,Portugal,10542964
+2007,EU Member States,7326,Sweden,9148092
+2007,EU Member States,521,Slovenia,2018122
+2007,EU Member States,1799,Slovak Republic,5374622
+2007,EU Member States,26291,United Kingdom,61322463
+2007,the World,13266,Austria,8295487
+2007,the World,20839,Belgium,10625700
+2007,the World,149,Cyprus,1063713
+2007,the World,12628,Czech Republic,10298828
+2007,the World,125210,Germany,82266372
+2007,the World,8786,Denmark,5461438
+2007,the World,628,Estonia,1340680
+2007,the World,815,Greece,11048473
+2007,the World,7832,Spain,45226803
+2007,the World,11508,Finland,5288720
+2007,the World,68061,France,64016225
+2007,the World,585,Croatia,4310217
+2007,the World,14857,Hungary,10055780
+2007,the World,22820,Ireland,4398942
+2007,the World,21890,Italy,58438310
+2007,the World,918,Lithuania,3231294
+2007,the World,5507,Luxembourg,479993
+2007,the World,280,Latvia,2200325
+2007,the World,1074,Malta,406724
+2007,the World,73455,Netherlands,16381696
+2007,the World,3108,Poland,38120560
+2007,the World,2615,Portugal,10542964
+2007,the World,1035,Romania,20882982
+2007,the World,16360,Sweden,9148092
+2007,the World,1015,Slovenia,2018122
+2007,the World,2133,Slovak Republic,5374622
+2007,the World,54179,United Kingdom,61322463
+2008,non-EU Countries,4812,Austria,8321496
+2008,non-EU Countries,6604,Belgium,10709973
+2008,non-EU Countries,29,Cyprus,1081563
+2008,non-EU Countries,2681,Czech Republic,10384603
+2008,non-EU Countries,50876,Germany,82110097
+2008,non-EU Countries,3912,Denmark,5493621
+2008,non-EU Countries,116,Estonia,1337090
+2008,non-EU Countries,449,Greece,11077841
+2008,non-EU Countries,3181,Spain,45954106
+2008,non-EU Countries,5387,Finland,5313399
+2008,non-EU Countries,38665,France,64374984
+2008,non-EU Countries,275,Croatia,4309705
+2008,non-EU Countries,5665,Hungary,10038188
+2008,non-EU Countries,9424,Ireland,4489544
+2008,non-EU Countries,11386,Italy,58826731
+2008,non-EU Countries,450,Lithuania,3198231
+2008,non-EU Countries,531,Luxembourg,488650
+2008,non-EU Countries,132,Latvia,2177322
+2008,non-EU Countries,637,Malta,409379
+2008,non-EU Countries,15672,Netherlands,16445593
+2008,non-EU Countries,1303,Poland,38125759
+2008,non-EU Countries,1724,Portugal,10558177
+2008,non-EU Countries,433,Romania,20537875
+2008,non-EU Countries,9817,Sweden,9219637
+2008,non-EU Countries,525,Slovenia,2021316
+2008,non-EU Countries,380,Slovak Republic,5379233
+2008,non-EU Countries,26647,United Kingdom,61806995
+2008,EU Member States,8547,Austria,8321496
+2008,EU Member States,15196,Belgium,10709973
+2008,EU Member States,183,Cyprus,1081563
+2008,EU Member States,11434,Czech Republic,10384603
+2008,EU Member States,71427,Germany,82110097
+2008,EU Member States,4604,Denmark,5493621
+2008,EU Member States,522,Estonia,1337090
+2008,EU Member States,582,Greece,11077841
+2008,EU Member States,4785,Spain,45954106
+2008,EU Member States,5979,Finland,5313399
+2008,EU Member States,34956,France,64374984
+2008,EU Member States,365,Croatia,4309705
+2008,EU Member States,9263,Hungary,10038188
+2008,EU Member States,11332,Ireland,4489544
+2008,EU Member States,10550,Italy,58826731
+2008,EU Member States,598,Lithuania,3198231
+2008,EU Member States,5689,Luxembourg,488650
+2008,EU Member States,54417,Netherlands,16445593
+2008,EU Member States,3646,Poland,38125759
+2008,EU Member States,743,Portugal,10558177
+2008,EU Member States,6646,Sweden,9219637
+2008,EU Member States,680,Slovenia,2021316
+2008,EU Member States,2136,Slovak Republic,5379233
+2008,EU Member States,22939,United Kingdom,61806995
+2008,the World,13358,Austria,8321496
+2008,the World,21801,Belgium,10709973
+2008,the World,212,Cyprus,1081563
+2008,the World,14115,Czech Republic,10384603
+2008,the World,122304,Germany,82110097
+2008,the World,8515,Denmark,5493621
+2008,the World,638,Estonia,1337090
+2008,the World,1031,Greece,11077841
+2008,the World,7966,Spain,45954106
+2008,the World,11365,Finland,5313399
+2008,the World,73621,France,64374984
+2008,the World,640,Croatia,4309705
+2008,the World,14928,Hungary,10038188
+2008,the World,20756,Ireland,4489544
+2008,the World,21936,Italy,58826731
+2008,the World,1048,Lithuania,3198231
+2008,the World,6220,Luxembourg,488650
+2008,the World,319,Latvia,2177322
+2008,the World,906,Malta,409379
+2008,the World,70089,Netherlands,16445593
+2008,the World,4950,Poland,38125759
+2008,the World,2467,Portugal,10558177
+2008,the World,1819,Romania,20537875
+2008,the World,16463,Sweden,9219637
+2008,the World,1205,Slovenia,2021316
+2008,the World,2516,Slovak Republic,5379233
+2008,the World,49585,United Kingdom,61806995
+2009,non-EU Countries,4366,Austria,8343323
+2009,non-EU Countries,7578,Belgium,10796493
+2009,non-EU Countries,39,Cyprus,1098083
+2009,non-EU Countries,2497,Czech Republic,10443936
+2009,non-EU Countries,47778,Germany,81902307
+2009,non-EU Countries,4113,Denmark,5523095
+2009,non-EU Countries,96,Estonia,1334515
+2009,non-EU Countries,897,Greece,11107017
+2009,non-EU Countries,3037,Spain,46362946
+2009,non-EU Countries,2863,Finland,5338871
+2009,non-EU Countries,33871,France,64707040
+2009,non-EU Countries,261,Croatia,4305181
+2009,non-EU Countries,4398,Hungary,10022650
+2009,non-EU Countries,8971,Ireland,4535375
+2009,non-EU Countries,10590,Italy,59095365
+2009,non-EU Countries,220,Lithuania,3162916
+2009,non-EU Countries,734,Luxembourg,497783
+2009,non-EU Countries,113,Latvia,2141669
+2009,non-EU Countries,511,Malta,412477
+2009,non-EU Countries,15328,Netherlands,16530388
+2009,non-EU Countries,1393,Poland,38151603
+2009,non-EU Countries,532,Portugal,10568247
+2009,non-EU Countries,599,Romania,20367487
+2009,non-EU Countries,7866,Sweden,9298515
+2009,non-EU Countries,412,Slovenia,2039669
+2009,non-EU Countries,336,Slovak Republic,5386406
+2009,non-EU Countries,27644,United Kingdom,62276270
+2009,EU Member States,7143,Austria,8343323
+2009,EU Member States,15784,Belgium,10796493
+2009,EU Member States,141,Cyprus,1098083
+2009,EU Member States,9834,Czech Republic,10443936
+2009,EU Member States,64863,Germany,81902307
+2009,EU Member States,4201,Denmark,5523095
+2009,EU Member States,355,Estonia,1334515
+2009,EU Member States,488,Greece,11107017
+2009,EU Member States,4757,Spain,46362946
+2009,EU Member States,3387,Finland,5338871
+2009,EU Member States,34810,France,64707040
+2009,EU Member States,308,Croatia,4305181
+2009,EU Member States,8837,Hungary,10022650
+2009,EU Member States,9380,Ireland,4535375
+2009,EU Member States,9259,Italy,59095365
+2009,EU Member States,468,Lithuania,3162916
+2009,EU Member States,5678,Luxembourg,497783
+2009,EU Member States,181,Latvia,2141669
+2009,EU Member States,211,Malta,412477
+2009,EU Member States,50293,Netherlands,16530388
+2009,EU Member States,4192,Poland,38151603
+2009,EU Member States,627,Portugal,10568247
+2009,EU Member States,1790,Romania,20367487
+2009,EU Member States,5865,Sweden,9298515
+2009,EU Member States,621,Slovenia,2039669
+2009,EU Member States,2022,Slovak Republic,5386406
+2009,EU Member States,20867,United Kingdom,62276270
+2009,the World,11509,Austria,8343323
+2009,the World,23362,Belgium,10796493
+2009,the World,181,Cyprus,1098083
+2009,the World,12331,Czech Republic,10443936
+2009,the World,112641,Germany,81902307
+2009,the World,8315,Denmark,5523095
+2009,the World,450,Estonia,1334515
+2009,the World,1385,Greece,11107017
+2009,the World,7793,Spain,46362946
+2009,the World,6250,Finland,5338871
+2009,the World,68681,France,64707040
+2009,the World,570,Croatia,4305181
+2009,the World,13235,Hungary,10022650
+2009,the World,18351,Ireland,4535375
+2009,the World,19849,Italy,59095365
+2009,the World,689,Lithuania,3162916
+2009,the World,6413,Luxembourg,497783
+2009,the World,294,Latvia,2141669
+2009,the World,722,Malta,412477
+2009,the World,65621,Netherlands,16530388
+2009,the World,5585,Poland,38151603
+2009,the World,1159,Portugal,10568247
+2009,the World,2389,Romania,20367487
+2009,the World,13730,Sweden,9298515
+2009,the World,1033,Slovenia,2039669
+2009,the World,2358,Slovak Republic,5386406
+2009,the World,48511,United Kingdom,62276270
+2010,non-EU Countries,5203,Austria,8363404
+2010,non-EU Countries,8967,Belgium,10895586
+2010,non-EU Countries,46,Cyprus,1112612
+2010,non-EU Countries,3159,Czech Republic,10474410
+2010,non-EU Countries,57711,Germany,81776930
+2010,non-EU Countries,3136,Denmark,5547683
+2010,non-EU Countries,137,Estonia,1331475
+2010,non-EU Countries,564,Greece,11121341
+2010,non-EU Countries,3235,Spain,46576897
+2010,non-EU Countries,2829,Finland,5363352
+2010,non-EU Countries,40393,France,65027507
+2010,non-EU Countries,258,Croatia,4295427
+2010,non-EU Countries,5872,Hungary,10000023
+2010,non-EU Countries,8777,Ireland,4560155
+2010,non-EU Countries,11610,Italy,59277417
+2010,non-EU Countries,274,Lithuania,3097282
+2010,non-EU Countries,919,Luxembourg,506953
+2010,non-EU Countries,125,Latvia,2097555
+2010,non-EU Countries,656,Malta,414508
+2010,non-EU Countries,17222,Netherlands,16615394
+2010,non-EU Countries,1779,Poland,38042794
+2010,non-EU Countries,525,Portugal,10573100
+2010,non-EU Countries,1080,Romania,20246871
+2010,non-EU Countries,10161,Sweden,9378126
+2010,non-EU Countries,400,Slovenia,2048583
+2010,non-EU Countries,414,Slovak Republic,5391428
+2010,non-EU Countries,32843,United Kingdom,62766365
+2010,EU Member States,8417,Austria,8363404
+2010,EU Member States,16873,Belgium,10895586
+2010,EU Member States,159,Cyprus,1112612
+2010,EU Member States,12965,Czech Republic,10474410
+2010,EU Member States,75485,Germany,81776930
+2010,EU Member States,3627,Denmark,5547683
+2010,EU Member States,775,Estonia,1331475
+2010,EU Member States,620,Greece,11121341
+2010,EU Member States,5884,Spain,46576897
+2010,EU Member States,2412,Finland,5363352
+2010,EU Member States,40218,France,65027507
+2010,EU Member States,361,Croatia,4295427
+2010,EU Member States,9796,Hungary,10000023
+2010,EU Member States,8469,Ireland,4560155
+2010,EU Member States,10482,Italy,59277417
+2010,EU Member States,671,Lithuania,3097282
+2010,EU Member States,3436,Luxembourg,506953
+2010,EU Member States,219,Latvia,2097555
+2010,EU Member States,235,Malta,414508
+2010,EU Member States,63316,Netherlands,16615394
+2010,EU Member States,5510,Poland,38042794
+2010,EU Member States,605,Portugal,10573100
+2010,EU Member States,2589,Romania,20246871
+2010,EU Member States,7161,Sweden,9378126
+2010,EU Member States,767,Slovenia,2048583
+2010,EU Member States,2802,Slovak Republic,5391428
+2010,EU Member States,22638,United Kingdom,62766365
+2010,the World,13620,Austria,8363404
+2010,the World,25840,Belgium,10895586
+2010,the World,205,Cyprus,1112612
+2010,the World,16123,Czech Republic,10474410
+2010,the World,133195,Germany,81776930
+2010,the World,6762,Denmark,5547683
+2010,the World,912,Estonia,1331475
+2010,the World,1184,Greece,11121341
+2010,the World,9119,Spain,46576897
+2010,the World,5241,Finland,5363352
+2010,the World,80611,France,65027507
+2010,the World,619,Croatia,4295427
+2010,the World,15668,Hungary,10000023
+2010,the World,17246,Ireland,4560155
+2010,the World,22091,Italy,59277417
+2010,the World,945,Lithuania,3097282
+2010,the World,4354,Luxembourg,506953
+2010,the World,344,Latvia,2097555
+2010,the World,891,Malta,414508
+2010,the World,80538,Netherlands,16615394
+2010,the World,7289,Poland,38042794
+2010,the World,1130,Portugal,10573100
+2010,the World,3670,Romania,20246871
+2010,the World,17322,Sweden,9378126
+2010,the World,1167,Slovenia,2048583
+2010,the World,3216,Slovak Republic,5391428
+2010,the World,55481,United Kingdom,62766365
+2011,non-EU Countries,5825,Austria,8391643
+2011,non-EU Countries,9264,Belgium,11038264
+2011,non-EU Countries,273,Bulgaria,7348328
+2011,non-EU Countries,43,Cyprus,1124833
+2011,non-EU Countries,3954,Czech Republic,10496088
+2011,non-EU Countries,63414,Germany,80274983
+2011,non-EU Countries,3661,Denmark,5570572
+2011,non-EU Countries,496,Estonia,1327439
+2011,non-EU Countries,510,Greece,11104899
+2011,non-EU Countries,4039,Spain,46742697
+2011,non-EU Countries,2727,Finland,5388272
+2011,non-EU Countries,42513,France,65342780
+2011,non-EU Countries,250,Croatia,4280622
+2011,non-EU Countries,6951,Hungary,9971727
+2011,non-EU Countries,10783,Ireland,4580084
+2011,non-EU Countries,12627,Italy,59379449
+2011,non-EU Countries,315,Lithuania,3028115
+2011,non-EU Countries,1116,Luxembourg,518347
+2011,non-EU Countries,322,Latvia,2059709
+2011,non-EU Countries,769,Malta,416268
+2011,non-EU Countries,18748,Netherlands,16693074
+2011,non-EU Countries,1896,Poland,38063255
+2011,non-EU Countries,630,Portugal,10557560
+2011,non-EU Countries,1307,Romania,20147528
+2011,non-EU Countries,11253,Sweden,9449213
+2011,non-EU Countries,540,Slovenia,2052843
+2011,non-EU Countries,486,Slovak Republic,5398384
+2011,non-EU Countries,35373,United Kingdom,63258918
+2011,EU Member States,8449,Austria,8391643
+2011,EU Member States,17078,Belgium,11038264
+2011,EU Member States,150,Cyprus,1124833
+2011,EU Member States,15283,Czech Republic,10496088
+2011,EU Member States,79710,Germany,80274983
+2011,EU Member States,3784,Denmark,5570572
+2011,EU Member States,1285,Estonia,1327439
+2011,EU Member States,601,Greece,11104899
+2011,EU Member States,6544,Spain,46742697
+2011,EU Member States,1813,Finland,5388272
+2011,EU Member States,37686,France,65342780
+2011,EU Member States,308,Croatia,4280622
+2011,EU Member States,9911,Hungary,9971727
+2011,EU Member States,8655,Ireland,4580084
+2011,EU Member States,11616,Italy,59379449
+2011,EU Member States,823,Lithuania,3028115
+2011,EU Member States,2748,Luxembourg,518347
+2011,EU Member States,312,Latvia,2059709
+2011,EU Member States,64307,Netherlands,16693074
+2011,EU Member States,5072,Poland,38063255
+2011,EU Member States,685,Portugal,10557560
+2011,EU Member States,2685,Romania,20147528
+2011,EU Member States,7303,Sweden,9449213
+2011,EU Member States,783,Slovenia,2052843
+2011,EU Member States,3325,Slovak Republic,5398384
+2011,EU Member States,24457,United Kingdom,63258918
+2011,the World,14274,Austria,8391643
+2011,the World,26342,Belgium,11038264
+2011,the World,194,Cyprus,1124833
+2011,the World,19237,Czech Republic,10496088
+2011,the World,143125,Germany,80274983
+2011,the World,7446,Denmark,5570572
+2011,the World,1780,Estonia,1327439
+2011,the World,1111,Greece,11104899
+2011,the World,10583,Spain,46742697
+2011,the World,4539,Finland,5388272
+2011,the World,80199,France,65342780
+2011,the World,559,Croatia,4280622
+2011,the World,16861,Hungary,9971727
+2011,the World,19438,Ireland,4580084
+2011,the World,24243,Italy,59379449
+2011,the World,1138,Lithuania,3028115
+2011,the World,3863,Luxembourg,518347
+2011,the World,633,Latvia,2059709
+2011,the World,948,Malta,416268
+2011,the World,83055,Netherlands,16693074
+2011,the World,6968,Poland,38063255
+2011,the World,1315,Portugal,10557560
+2011,the World,3992,Romania,20147528
+2011,the World,18556,Sweden,9449213
+2011,the World,1323,Slovenia,2052843
+2011,the World,3811,Slovak Republic,5398384
+2011,the World,59830,United Kingdom,63258918
+2012,non-EU Countries,6473,Austria,8429991
+2012,non-EU Countries,12813,Belgium,11106932
+2012,non-EU Countries,321,Bulgaria,7305888
+2012,non-EU Countries,76,Cyprus,1135046
+2012,non-EU Countries,4663,Czech Republic,10510785
+2012,non-EU Countries,73086,Germany,80425823
+2012,non-EU Countries,4146,Denmark,5591572
+2012,non-EU Countries,465,Estonia,1322696
+2012,non-EU Countries,354,Greece,11045011
+2012,non-EU Countries,4459,Spain,46773055
+2012,non-EU Countries,2538,Finland,5413971
+2012,non-EU Countries,47804,France,65659809
+2012,non-EU Countries,406,Croatia,4267558
+2012,non-EU Countries,5285,Hungary,9920362
+2012,non-EU Countries,7815,Ireland,4599533
+2012,non-EU Countries,13140,Italy,59539717
+2012,non-EU Countries,468,Lithuania,2987773
+2012,non-EU Countries,1278,Luxembourg,530946
+2012,non-EU Countries,271,Latvia,2034319
+2012,non-EU Countries,821,Malta,420028
+2012,non-EU Countries,24448,Netherlands,16754962
+2012,non-EU Countries,2789,Poland,38063164
+2012,non-EU Countries,619,Portugal,10514844
+2012,non-EU Countries,436,Romania,20058035
+2012,non-EU Countries,9063,Sweden,9519374
+2012,non-EU Countries,608,Slovenia,2057159
+2012,non-EU Countries,875,Slovak Republic,5407579
+2012,non-EU Countries,39417,United Kingdom,63700300
+2012,EU Member States,10121,Austria,8429991
+2012,EU Member States,16912,Belgium,11106932
+2012,EU Member States,83,Cyprus,1135046
+2012,EU Member States,15002,Czech Republic,10510785
+2012,EU Member States,82136,Germany,80425823
+2012,EU Member States,3642,Denmark,5591572
+2012,EU Member States,1304,Estonia,1322696
+2012,EU Member States,531,Greece,11045011
+2012,EU Member States,6988,Spain,46773055
+2012,EU Member States,1626,Finland,5413971
+2012,EU Member States,40810,France,65659809
+2012,EU Member States,286,Croatia,4267558
+2012,EU Member States,8674,Hungary,9920362
+2012,EU Member States,12241,Ireland,4599533
+2012,EU Member States,11660,Italy,59539717
+2012,EU Member States,865,Lithuania,2987773
+2012,EU Member States,2637,Luxembourg,530946
+2012,EU Member States,435,Latvia,2034319
+2012,EU Member States,159,Malta,420028
+2012,EU Member States,71331,Netherlands,16754962
+2012,EU Member States,5805,Poland,38063164
+2012,EU Member States,874,Portugal,10514844
+2012,EU Member States,2402,Romania,20058035
+2012,EU Member States,8173,Sweden,9519374
+2012,EU Member States,695,Slovenia,2057159
+2012,EU Member States,4289,Slovak Republic,5407579
+2012,EU Member States,24688,United Kingdom,63700300
+2012,the World,16594,Austria,8429991
+2012,the World,29724,Belgium,11106932
+2012,the World,794,Bulgaria,7305888
+2012,the World,159,Cyprus,1135046
+2012,the World,19665,Czech Republic,10510785
+2012,the World,155222,Germany,80425823
+2012,the World,7788,Denmark,5591572
+2012,the World,1769,Estonia,1322696
+2012,the World,885,Greece,11045011
+2012,the World,11447,Spain,46773055
+2012,the World,4165,Finland,5413971
+2012,the World,88614,France,65659809
+2012,the World,691,Croatia,4267558
+2012,the World,13959,Hungary,9920362
+2012,the World,20056,Ireland,4599533
+2012,the World,24800,Italy,59539717
+2012,the World,1333,Lithuania,2987773
+2012,the World,3914,Luxembourg,530946
+2012,the World,706,Latvia,2034319
+2012,the World,980,Malta,420028
+2012,the World,95779,Netherlands,16754962
+2012,the World,8594,Poland,38063164
+2012,the World,1492,Portugal,10514844
+2012,the World,2838,Romania,20058035
+2012,the World,17236,Sweden,9519374
+2012,the World,1303,Slovenia,2057159
+2012,the World,5164,Slovak Republic,5407579
+2012,the World,64106,United Kingdom,63700300
+2013,non-EU Countries,6643,Austria,8479823
+2013,non-EU Countries,12146,Belgium,11159407
+2013,non-EU Countries,127,Cyprus,1143866
+2013,non-EU Countries,4639,Czech Republic,10514272
+2013,non-EU Countries,74880,Germany,80645605
+2013,non-EU Countries,4103,Denmark,5614932
+2013,non-EU Countries,377,Estonia,1317997
+2013,non-EU Countries,275,Greece,10965211
+2013,non-EU Countries,6105,Spain,46620045
+2013,non-EU Countries,2089,Finland,5438972
+2013,non-EU Countries,47451,France,65998687
+2013,non-EU Countries,342,Croatia,4255689
+2013,non-EU Countries,4461,Hungary,9893082
+2013,non-EU Countries,7691,Ireland,4623816
+2013,non-EU Countries,13735,Italy,60233948
+2013,non-EU Countries,532,Lithuania,2957689
+2013,non-EU Countries,946,Luxembourg,543360
+2013,non-EU Countries,254,Latvia,2012647
+2013,non-EU Countries,662,Malta,425967
+2013,non-EU Countries,23408,Netherlands,16804432
+2013,non-EU Countries,3281,Poland,38040196
+2013,non-EU Countries,640,Portugal,10457295
+2013,non-EU Countries,473,Romania,19983693
+2013,non-EU Countries,8675,Sweden,9600379
+2013,non-EU Countries,621,Slovenia,2059953
+2013,non-EU Countries,1097,Slovak Republic,5413393
+2013,non-EU Countries,40409,United Kingdom,64128226
+2013,EU Member States,12142,Austria,8479823
+2013,EU Member States,18594,Belgium,11159407
+2013,EU Member States,148,Cyprus,1143866
+2013,EU Member States,13792,Czech Republic,10514272
+2013,EU Member States,80371,Germany,80645605
+2013,EU Member States,3662,Denmark,5614932
+2013,EU Member States,1459,Estonia,1317997
+2013,EU Member States,468,Greece,10965211
+2013,EU Member States,6919,Spain,46620045
+2013,EU Member States,1375,Finland,5438972
+2013,EU Member States,41849,France,65998687
+2013,EU Member States,408,Croatia,4255689
+2013,EU Member States,8744,Hungary,9893082
+2013,EU Member States,10677,Ireland,4623816
+2013,EU Member States,12194,Italy,60233948
+2013,EU Member States,903,Lithuania,2957689
+2013,EU Member States,2091,Luxembourg,543360
+2013,EU Member States,622,Latvia,2012647
+2013,EU Member States,122,Malta,425967
+2013,EU Member States,66150,Netherlands,16804432
+2013,EU Member States,6993,Poland,38040196
+2013,EU Member States,969,Portugal,10457295
+2013,EU Member States,2293,Romania,19983693
+2013,EU Member States,7788,Sweden,9600379
+2013,EU Member States,784,Slovenia,2059953
+2013,EU Member States,5132,Slovak Republic,5413393
+2013,EU Member States,22531,United Kingdom,64128226
+2013,the World,18786,Austria,8479823
+2013,the World,30740,Belgium,11159407
+2013,the World,276,Cyprus,1143866
+2013,the World,18431,Czech Republic,10514272
+2013,the World,155251,Germany,80645605
+2013,the World,7765,Denmark,5614932
+2013,the World,1835,Estonia,1317997
+2013,the World,743,Greece,10965211
+2013,the World,13025,Spain,46620045
+2013,the World,3464,Finland,5438972
+2013,the World,89299,France,65998687
+2013,the World,750,Croatia,4255689
+2013,the World,13205,Hungary,9893082
+2013,the World,18368,Ireland,4623816
+2013,the World,25929,Italy,60233948
+2013,the World,1435,Lithuania,2957689
+2013,the World,3037,Luxembourg,543360
+2013,the World,876,Latvia,2012647
+2013,the World,784,Malta,425967
+2013,the World,89559,Netherlands,16804432
+2013,the World,10274,Poland,38040196
+2013,the World,1609,Portugal,10457295
+2013,the World,2766,Romania,19983693
+2013,the World,16463,Sweden,9600379
+2013,the World,1405,Slovenia,2059953
+2013,the World,6230,Slovak Republic,5413393
+2013,the World,62941,United Kingdom,64128226
+2014,non-EU Countries,7120,Austria,8546356
+2014,non-EU Countries,13407,Belgium,11209057
+2014,non-EU Countries,387,Bulgaria,7223938
+2014,non-EU Countries,47,Cyprus,1152285
+2014,non-EU Countries,4919,Czech Republic,10525347
+2014,non-EU Countries,76622,Germany,80982500
+2014,non-EU Countries,4319,Denmark,5643475
+2014,non-EU Countries,366,Estonia,1314545
+2014,non-EU Countries,277,Greece,10892413
+2014,non-EU Countries,5978,Spain,46480882
+2014,non-EU Countries,2313,Finland,5461512
+2014,non-EU Countries,47310,France,66316100
+2014,non-EU Countries,366,Croatia,4238389
+2014,non-EU Countries,3213,Hungary,9866468
+2014,non-EU Countries,8711,Ireland,4657740
+2014,non-EU Countries,14010,Italy,60789140
+2014,non-EU Countries,687,Lithuania,2932367
+2014,non-EU Countries,468,Luxembourg,556319
+2014,non-EU Countries,277,Latvia,1993782
+2014,non-EU Countries,495,Malta,434558
+2014,non-EU Countries,22695,Netherlands,16865008
+2014,non-EU Countries,3513,Poland,38011735
+2014,non-EU Countries,706,Portugal,10401062
+2014,non-EU Countries,569,Romania,19908979
+2014,non-EU Countries,8615,Sweden,9696110
+2014,non-EU Countries,531,Slovenia,2061980
+2014,non-EU Countries,990,Slovak Republic,5418649
+2014,non-EU Countries,37517,United Kingdom,64613160
+2014,EU Member States,12150,Austria,8546356
+2014,EU Member States,20746,Belgium,11209057
+2014,EU Member States,482,Bulgaria,7223938
+2014,EU Member States,77,Cyprus,1152285
+2014,EU Member States,15249,Czech Republic,10525347
+2014,EU Member States,83807,Germany,80982500
+2014,EU Member States,3925,Denmark,5643475
+2014,EU Member States,1602,Estonia,1314545
+2014,EU Member States,728,Greece,10892413
+2014,EU Member States,6628,Spain,46480882
+2014,EU Member States,1417,Finland,5461512
+2014,EU Member States,43740,France,66316100
+2014,EU Member States,319,Croatia,4238389
+2014,EU Member States,8875,Hungary,9866468
+2014,EU Member States,10328,Ireland,4657740
+2014,EU Member States,12748,Italy,60789140
+2014,EU Member States,909,Lithuania,2932367
+2014,EU Member States,2357,Luxembourg,556319
+2014,EU Member States,781,Latvia,1993782
+2014,EU Member States,137,Malta,434558
+2014,EU Member States,71635,Netherlands,16865008
+2014,EU Member States,9609,Poland,38011735
+2014,EU Member States,1035,Portugal,10401062
+2014,EU Member States,2808,Romania,19908979
+2014,EU Member States,7389,Sweden,9696110
+2014,EU Member States,918,Slovenia,2061980
+2014,EU Member States,5446,Slovak Republic,5418649
+2014,EU Member States,21860,United Kingdom,64613160
+2014,the World,19270,Austria,8546356
+2014,the World,34153,Belgium,11209057
+2014,the World,869,Bulgaria,7223938
+2014,the World,124,Cyprus,1152285
+2014,the World,20168,Czech Republic,10525347
+2014,the World,160429,Germany,80982500
+2014,the World,8244,Denmark,5643475
+2014,the World,1968,Estonia,1314545
+2014,the World,1005,Greece,10892413
+2014,the World,12606,Spain,46480882
+2014,the World,3731,Finland,5461512
+2014,the World,91050,France,66316100
+2014,the World,686,Croatia,4238389
+2014,the World,12088,Hungary,9866468
+2014,the World,19039,Ireland,4657740
+2014,the World,26759,Italy,60789140
+2014,the World,1596,Lithuania,2932367
+2014,the World,2825,Luxembourg,556319
+2014,the World,1057,Latvia,1993782
+2014,the World,633,Malta,434558
+2014,the World,94330,Netherlands,16865008
+2014,the World,13122,Poland,38011735
+2014,the World,1741,Portugal,10401062
+2014,the World,3377,Romania,19908979
+2014,the World,16004,Sweden,9696110
+2014,the World,1449,Slovenia,2061980
+2014,the World,6436,Slovak Republic,5418649
+2014,the World,59377,United Kingdom,64613160
+2015,non-EU Countries,7452,Austria,8642699
+2015,non-EU Countries,14369,Belgium,11274196
+2015,non-EU Countries,441,Bulgaria,7177991
+2015,non-EU Countries,48,Cyprus,1160985
+2015,non-EU Countries,4996,Czech Republic,10546059
+2015,non-EU Countries,86526,Germany,81686611
+2015,non-EU Countries,4961,Denmark,5683483
+2015,non-EU Countries,310,Estonia,1315407
+2015,non-EU Countries,344,Greece,10820883
+2015,non-EU Countries,6921,Spain,46444832
+2015,non-EU Countries,2033,Finland,5479531
+2015,non-EU Countries,55065,France,66593366
+2015,non-EU Countries,333,Croatia,4203604
+2015,non-EU Countries,3243,Hungary,9843028
+2015,non-EU Countries,14206,Ireland,4701957
+2015,non-EU Countries,14501,Italy,60730582
+2015,non-EU Countries,714,Lithuania,2904910
+2015,non-EU Countries,505,Luxembourg,569604
+2015,non-EU Countries,400,Latvia,1977527
+2015,non-EU Countries,451,Malta,445053
+2015,non-EU Countries,24555,Netherlands,16939923
+2015,non-EU Countries,3902,Poland,37986412
+2015,non-EU Countries,731,Portugal,10358076
+2015,non-EU Countries,671,Romania,19815481
+2015,non-EU Countries,8999,Sweden,9799186
+2015,non-EU Countries,619,Slovenia,2063531
+2015,non-EU Countries,1004,Slovak Republic,5423801
+2015,non-EU Countries,46346,United Kingdom,65128861
+2015,EU Member States,12061,Austria,8642699
+2015,EU Member States,22086,Belgium,11274196
+2015,EU Member States,571,Bulgaria,7177991
+2015,EU Member States,275,Cyprus,1160985
+2015,EU Member States,17136,Czech Republic,10546059
+2015,EU Member States,91386,Germany,81686611
+2015,EU Member States,4257,Denmark,5683483
+2015,EU Member States,1486,Estonia,1315407
+2015,EU Member States,850,Greece,10820883
+2015,EU Member States,6970,Spain,46444832
+2015,EU Member States,1755,Finland,5479531
+2015,EU Member States,43964,France,66593366
+2015,EU Member States,492,Croatia,4203604
+2015,EU Member States,10410,Hungary,9843028
+2015,EU Member States,12992,Ireland,4701957
+2015,EU Member States,14186,Italy,60730582
+2015,EU Member States,1017,Lithuania,2904910
+2015,EU Member States,2559,Luxembourg,569604
+2015,EU Member States,801,Latvia,1977527
+2015,EU Member States,118,Malta,445053
+2015,EU Member States,80130,Netherlands,16939923
+2015,EU Member States,11281,Poland,37986412
+2015,EU Member States,1158,Portugal,10358076
+2015,EU Member States,3332,Romania,19815481
+2015,EU Member States,8082,Sweden,9799186
+2015,EU Member States,1071,Slovenia,2063531
+2015,EU Member States,5785,Slovak Republic,5423801
+2015,EU Member States,23033,United Kingdom,65128861
+2015,the World,19512,Austria,8642699
+2015,the World,36455,Belgium,11274196
+2015,the World,1012,Bulgaria,7177991
+2015,the World,323,Cyprus,1160985
+2015,the World,22132,Czech Republic,10546059
+2015,the World,177911,Germany,81686611
+2015,the World,9218,Denmark,5683483
+2015,the World,1796,Estonia,1315407
+2015,the World,1194,Greece,10820883
+2015,the World,13892,Spain,46444832
+2015,the World,3788,Finland,5479531
+2015,the World,99029,France,66593366
+2015,the World,825,Croatia,4203604
+2015,the World,13654,Hungary,9843028
+2015,the World,27197,Ireland,4701957
+2015,the World,28687,Italy,60730582
+2015,the World,1732,Lithuania,2904910
+2015,the World,3065,Luxembourg,569604
+2015,the World,1201,Latvia,1977527
+2015,the World,568,Malta,445053
+2015,the World,104685,Netherlands,16939923
+2015,the World,15183,Poland,37986412
+2015,the World,1889,Portugal,10358076
+2015,the World,4003,Romania,19815481
+2015,the World,17081,Sweden,9799186
+2015,the World,1690,Slovenia,2063531
+2015,the World,6789,Slovak Republic,5423801
+2015,the World,69379,United Kingdom,65128861
+2016,non-EU Countries,7860,Austria,8736668
+2016,non-EU Countries,14373,Belgium,11331422
+2016,non-EU Countries,552,Bulgaria,7127822
+2016,non-EU Countries,45,Cyprus,1170187
+2016,non-EU Countries,5066,Czech Republic,10566332
+2016,non-EU Countries,90165,Germany,82348669
+2016,non-EU Countries,4840,Denmark,5728010
+2016,non-EU Countries,479,Estonia,1315790
+2016,non-EU Countries,284,Greece,10775971
+2016,non-EU Countries,6144,Spain,46483569
+2016,non-EU Countries,2080,Finland,5495303
+2016,non-EU Countries,53375,France,66859768
+2016,non-EU Countries,582,Croatia,4174349
+2016,non-EU Countries,3227,Hungary,9814023
+2016,non-EU Countries,20357,Ireland,4755335
+2016,non-EU Countries,14473,Italy,60627498
+2016,non-EU Countries,698,Lithuania,2868231
+2016,non-EU Countries,521,Luxembourg,582014
+2016,non-EU Countries,371,Latvia,1959537
+2016,non-EU Countries,411,Malta,455356
+2016,non-EU Countries,22697,Netherlands,17030314
+2016,non-EU Countries,4118,Poland,37970087
+2016,non-EU Countries,809,Portugal,10325452
+2016,non-EU Countries,772,Romania,19702332
+2016,non-EU Countries,8948,Sweden,9923085
+2016,non-EU Countries,625,Slovenia,2065042
+2016,non-EU Countries,941,Slovak Republic,5430798
+2016,non-EU Countries,45816,United Kingdom,65595565
+2016,EU Member States,11211,Austria,8736668
+2016,EU Member States,21629,Belgium,11331422
+2016,EU Member States,683,Bulgaria,7127822
+2016,EU Member States,139,Cyprus,1170187
+2016,EU Member States,17051,Czech Republic,10566332
+2016,EU Member States,93129,Germany,82348669
+2016,EU Member States,4259,Denmark,5728010
+2016,EU Member States,1376,Estonia,1315790
+2016,EU Member States,1000,Greece,10775971
+2016,EU Member States,9177,Spain,46483569
+2016,EU Member States,1501,Finland,5495303
+2016,EU Member States,44860,France,66859768
+2016,EU Member States,626,Croatia,4174349
+2016,EU Member States,11454,Hungary,9814023
+2016,EU Member States,13578,Ireland,4755335
+2016,EU Member States,15258,Italy,60627498
+2016,EU Member States,1074,Lithuania,2868231
+2016,EU Member States,1668,Luxembourg,582014
+2016,EU Member States,744,Latvia,1959537
+2016,EU Member States,113,Malta,455356
+2016,EU Member States,85649,Netherlands,17030314
+2016,EU Member States,11539,Poland,37970087
+2016,EU Member States,1411,Portugal,10325452
+2016,EU Member States,3980,Romania,19702332
+2016,EU Member States,7901,Sweden,9923085
+2016,EU Member States,1074,Slovenia,2065042
+2016,EU Member States,5845,Slovak Republic,5430798
+2016,EU Member States,22307,United Kingdom,65595565
+2016,the World,19071,Austria,8736668
+2016,the World,36002,Belgium,11331422
+2016,the World,1235,Bulgaria,7127822
+2016,the World,184,Cyprus,1170187
+2016,the World,22117,Czech Republic,10566332
+2016,the World,183294,Germany,82348669
+2016,the World,9099,Denmark,5728010
+2016,the World,1856,Estonia,1315790
+2016,the World,1284,Greece,10775971
+2016,the World,15321,Spain,46483569
+2016,the World,3581,Finland,5495303
+2016,the World,98235,France,66859768
+2016,the World,1207,Croatia,4174349
+2016,the World,14681,Hungary,9814023
+2016,the World,33935,Ireland,4755335
+2016,the World,29731,Italy,60627498
+2016,the World,1772,Lithuania,2868231
+2016,the World,2189,Luxembourg,582014
+2016,the World,1115,Latvia,1959537
+2016,the World,525,Malta,455356
+2016,the World,108346,Netherlands,17030314
+2016,the World,15658,Poland,37970087
+2016,the World,2220,Portugal,10325452
+2016,the World,4752,Romania,19702332
+2016,the World,16848,Sweden,9923085
+2016,the World,1699,Slovenia,2065042
+2016,the World,6786,Slovak Republic,5430798
+2016,the World,68123,United Kingdom,65595565
+2017,non-EU Countries,8017,Austria,8797566
+2017,non-EU Countries,14727,Belgium,11375158
+2017,non-EU Countries,582,Bulgaria,7075947
+2017,non-EU Countries,107,Cyprus,1179680
+2017,non-EU Countries,5380,Czech Republic,10594438
+2017,non-EU Countries,92612,Germany,82657002
+2017,non-EU Countries,4433,Denmark,5764980
+2017,non-EU Countries,420,Estonia,1317384
+2017,non-EU Countries,354,Greece,10754679
+2017,non-EU Countries,6620,Spain,46593236
+2017,non-EU Countries,2248,Finland,5508214
+2017,non-EU Countries,59554,France,66865144
+2017,non-EU Countries,636,Croatia,4124531
+2017,non-EU Countries,3521,Hungary,9787966
+2017,non-EU Countries,24482,Ireland,4807388
+2017,non-EU Countries,16624,Italy,60536709
+2017,non-EU Countries,862,Lithuania,2828403
+2017,non-EU Countries,142,Luxembourg,596336
+2017,non-EU Countries,598,Latvia,1942248
+2017,non-EU Countries,382,Malta,467999
+2017,non-EU Countries,28768,Netherlands,17131296
+2017,non-EU Countries,4657,Poland,37974826
+2017,non-EU Countries,972,Portugal,10300300
+2017,non-EU Countries,886,Romania,19587491
+2017,non-EU Countries,8403,Sweden,10057698
+2017,non-EU Countries,653,Slovenia,2066388
+2017,non-EU Countries,1018,Slovak Republic,5439232
+2017,non-EU Countries,47045,United Kingdom,66058859
+2017,EU Member States,13967,Austria,8797566
+2017,EU Member States,22547,Belgium,11375158
+2017,EU Member States,910,Bulgaria,7075947
+2017,EU Member States,188,Cyprus,1179680
+2017,EU Member States,20518,Czech Republic,10594438
+2017,EU Member States,100923,Germany,82657002
+2017,EU Member States,4304,Denmark,5764980
+2017,EU Member States,1127,Estonia,1317384
+2017,EU Member States,894,Greece,10754679
+2017,EU Member States,9625,Spain,46593236
+2017,EU Member States,1726,Finland,5508214
+2017,EU Member States,37909,France,66865144
+2017,EU Member States,671,Croatia,4124531
+2017,EU Member States,12586,Hungary,9787966
+2017,EU Member States,17511,Ireland,4807388
+2017,EU Member States,17335,Italy,60536709
+2017,EU Member States,1273,Lithuania,2828403
+2017,EU Member States,824,Luxembourg,596336
+2017,EU Member States,709,Latvia,1942248
+2017,EU Member States,183,Malta,467999
+2017,EU Member States,95969,Netherlands,17131296
+2017,EU Member States,12796,Poland,37974826
+2017,EU Member States,1530,Portugal,10300300
+2017,EU Member States,4077,Romania,19587491
+2017,EU Member States,7721,Sweden,10057698
+2017,EU Member States,1242,Slovenia,2066388
+2017,EU Member States,6864,Slovak Republic,5439232
+2017,EU Member States,23805,United Kingdom,66058859
+2017,the World,21984,Austria,8797566
+2017,the World,37274,Belgium,11375158
+2017,the World,1492,Bulgaria,7075947
+2017,the World,295,Cyprus,1179680
+2017,the World,25898,Czech Republic,10594438
+2017,the World,193535,Germany,82657002
+2017,the World,8737,Denmark,5764980
+2017,the World,1547,Estonia,1317384
+2017,the World,1248,Greece,10754679
+2017,the World,16245,Spain,46593236
+2017,the World,3974,Finland,5508214
+2017,the World,97463,France,66865144
+2017,the World,1307,Croatia,4124531
+2017,the World,16106,Hungary,9787966
+2017,the World,41993,Ireland,4807388
+2017,the World,33958,Italy,60536709
+2017,the World,2135,Lithuania,2828403
+2017,the World,966,Luxembourg,596336
+2017,the World,1307,Latvia,1942248
+2017,the World,565,Malta,467999
+2017,the World,124737,Netherlands,17131296
+2017,the World,17453,Poland,37974826
+2017,the World,2503,Portugal,10300300
+2017,the World,4963,Romania,19587491
+2017,the World,16124,Sweden,10057698
+2017,the World,1895,Slovenia,2066388
+2017,the World,7882,Slovak Republic,5439232
+2017,the World,70850,United Kingdom,66058859
+2018,non-EU Countries,7914,Austria,8847037
+2018,non-EU Countries,16027,Belgium,11422068
+2018,non-EU Countries,616,Bulgaria,7024216
+2018,non-EU Countries,132,Cyprus,1189265
+2018,non-EU Countries,5778,Czech Republic,10625695
+2018,non-EU Countries,95911,Germany,82927922
+2018,non-EU Countries,4310,Denmark,5797446
+2018,non-EU Countries,793,Estonia,1320884
+2018,non-EU Countries,334,Greece,10727668
+2018,non-EU Countries,6895,Spain,46723749
+2018,non-EU Countries,2348,Finland,5518050
+2018,non-EU Countries,59713,France,66987244
+2018,non-EU Countries,393,Croatia,4089400
+2018,non-EU Countries,3630,Hungary,9768785
+2018,non-EU Countries,30092,Ireland,4853506
+2018,non-EU Countries,17600,Italy,60431283
+2018,non-EU Countries,900,Lithuania,2789533
+2018,non-EU Countries,136,Luxembourg,607728
+2018,non-EU Countries,722,Latvia,1926542
+2018,non-EU Countries,399,Malta,483530
+2018,non-EU Countries,32832,Netherlands,17231017
+2018,non-EU Countries,5165,Poland,37978548
+2018,non-EU Countries,872,Portugal,10281762
+2018,non-EU Countries,1006,Romania,19473936
+2018,non-EU Countries,7888,Sweden,10183175
+2018,non-EU Countries,819,Slovenia,2067372
+2018,non-EU Countries,980,Slovak Republic,5447011
+2018,non-EU Countries,44905,United Kingdom,66488991
+2018,EU Member States,13615,Austria,8847037
+2018,EU Member States,24563,Belgium,11422068
+2018,EU Member States,1050,Bulgaria,7024216
+2018,EU Member States,270,Cyprus,1189265
+2018,EU Member States,24779,Czech Republic,10625695
+2018,EU Member States,103937,Germany,82927922
+2018,EU Member States,4396,Denmark,5797446
+2018,EU Member States,872,Estonia,1320884
+2018,EU Member States,1170,Greece,10727668
+2018,EU Member States,9255,Spain,46723749
+2018,EU Member States,1555,Finland,5518050
+2018,EU Member States,41063,France,66987244
+2018,EU Member States,792,Croatia,4089400
+2018,EU Member States,12978,Hungary,9768785
+2018,EU Member States,18398,Ireland,4853506
+2018,EU Member States,18307,Italy,60431283
+2018,EU Member States,1343,Lithuania,2789533
+2018,EU Member States,848,Luxembourg,607728
+2018,EU Member States,766,Latvia,1926542
+2018,EU Member States,255,Malta,483530
+2018,EU Member States,97768,Netherlands,17231017
+2018,EU Member States,13356,Poland,37978548
+2018,EU Member States,1438,Portugal,10281762
+2018,EU Member States,4653,Romania,19473936
+2018,EU Member States,7938,Sweden,10183175
+2018,EU Member States,1349,Slovenia,2067372
+2018,EU Member States,6694,Slovak Republic,5447011
+2018,EU Member States,23764,United Kingdom,66488991
+2018,the World,21529,Austria,8847037
+2018,the World,40590,Belgium,11422068
+2018,the World,1666,Bulgaria,7024216
+2018,the World,402,Cyprus,1189265
+2018,the World,30556,Czech Republic,10625695
+2018,the World,199848,Germany,82927922
+2018,the World,8705,Denmark,5797446
+2018,the World,1664,Estonia,1320884
+2018,the World,1504,Greece,10727668
+2018,the World,16150,Spain,46723749
+2018,the World,3904,Finland,5518050
+2018,the World,100776,France,66987244
+2018,the World,1185,Croatia,4089400
+2018,the World,16609,Hungary,9768785
+2018,the World,48491,Ireland,4853506
+2018,the World,35907,Italy,60431283
+2018,the World,2243,Lithuania,2789533
+2018,the World,983,Luxembourg,607728
+2018,the World,1489,Latvia,1926542
+2018,the World,654,Malta,483530
+2018,the World,130600,Netherlands,17231017
+2018,the World,18521,Poland,37978548
+2018,the World,2310,Portugal,10281762
+2018,the World,5658,Romania,19473936
+2018,the World,15827,Sweden,10183175
+2018,the World,2168,Slovenia,2067372
+2018,the World,7674,Slovak Republic,5447011
+2018,the World,68669,United Kingdom,66488991
